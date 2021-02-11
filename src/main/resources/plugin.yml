@@ -1,0 +1,19 @@
+name: bolierplate
+version: 1.0-SNAPSHOT
+author: hwangseonu
+main: me.mocha.nukkitplugin.Main
+api:
+  - 1.0.0
+
+commands:
+  example:
+    description: example command for nukkit
+    permission: boilerplate.command.example
+    usage: /example
+    aliases:
+      - ex
+
+permissions:
+  boilerplate.command.example:
+    description: Permission to execute example command
+    default: op

@@ -1,0 +1,7 @@
+name: bolierplate
+version: 1.0-SNAPSHOT
+author: hwangseonu
+main: me.mocha.nukkitplugin.Main
+api:
+  - 1.0.0
+

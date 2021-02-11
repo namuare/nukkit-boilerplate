@@ -1,0 +1,2 @@
+me/mocha/nukkitplugin/Main.java
+ me.mocha.nukkitplugin.Main
